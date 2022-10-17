@@ -1,4 +1,4 @@
-#include <stio.d>
+#include <stdio.h>
 int main(){
 printf("First TIL of DinJae");
 }
